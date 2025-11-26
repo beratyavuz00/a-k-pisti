@@ -429,5 +429,4 @@ def main(page: ft.Page):
     )
 
     start_game()
-
 ft.app(target=main, assets_dir="assets")
